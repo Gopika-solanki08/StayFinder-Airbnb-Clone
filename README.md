@@ -35,30 +35,7 @@ A full-stack Airbnb Clone built using the **MERN Stack (MongoDB, Express.js, Rea
 
 ---
 
-## 📂 Project Structure
-
-```
-airbnb-clone-mern/
-├── client/       # React Frontend
-├── server/       # Backend (Node + Express)
-├── models/
-├── routes/
-├── controllers/
-└── package.json
-```
-
----
-
-## ⚙️ Installation
-
-1. Clone the repository:
-
-```
-git clone https://github.com/your-username/airbnb-clone-mern.git
-cd airbnb-clone-mern
-```
-
-## 📈 Future Improvements
+## 📈 Upcoming Futures
 
 * 💳 Payment Integration
 * 🗺️ Map Integration
